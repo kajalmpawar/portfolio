@@ -187,6 +187,7 @@ li{
     background: linear-gradient(315deg, #feae96 0%, #fe0944 74%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    color:white;
 }
 
 .top-nav.open{
@@ -232,7 +233,7 @@ display: none;
 
 .subnav-content a:hover {
   background-color: #eee;
-  color: cornsilk;
+  color: black;
  
 }
 
